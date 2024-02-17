@@ -1,2 +1,2 @@
-# Pythom Estudos
- Meus exercicios do estudo em Pythom Curso em Video
+# Python Estudos
+ Meus exercicios do estudo em Python Curso em Video
